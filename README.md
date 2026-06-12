@@ -1,4 +1,17 @@
+# 💫 Hi 👋, I'm Anirudha Umale
+**Passionate and detail-oriented Full Stack Python Developer with experience in developing responsive web applications using Python, Django, HTML, CSS, JavaScript, and MySQL. Strong interest in software development, problem-solving, and emerging technologies. Committed to continuous learning and leveraging technology to create efficient, scalable, and innovative solutions.**
 
+Email Me 👉 ✉️ **anirudhaumale358@gmail.com** 😊😊
+
+* 🔭 **I’m currently working on:** Full-Stack Web Development Projects, Django REST APIs, and a Job Board REST API.
+* 🌱 **I’m currently learning:** Advanced Django, REST Framework, Database Optimization, and Cloud Deployment.
+* 👯 **I’m looking to collaborate on:** Open-Source Web Development Projects, Python Applications, and REST API Development.
+* 🤔 **I’m looking for help with:** Scalable Backend Architecture, System Design, and Best Practices in Full-Stack Development.
+* 💬 **Ask me about:** Python, Django, REST APIs, HTML, CSS, JavaScript, MySQL, and Full-Stack Development.
+* 📫 **How to reach me:** anirudhaumale358@gmail.com
+* 😄 **Pronouns:** He/Him
+* ⚡ **Fun fact:** I enjoy turning ideas into real-world applications and continuously exploring new technologies.
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anirudh_3580) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anirudh_3580) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anirudha-umale) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/AnirudhUma96000) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnirudhUma96000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anirudhaumale358@gmail.com) 
 
